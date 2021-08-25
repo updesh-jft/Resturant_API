@@ -1,2 +1,2 @@
 # Resturant_API
-This is basically resturant app , made on expressjs/type script , mongo db.
+This is basically resturant app , made on express js/type script , mongo db.
